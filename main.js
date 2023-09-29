@@ -1,0 +1,1 @@
+alert("Como dizia minha mãe: ou você nasce bonita ou nasce inteligente, e eu sou inteligente pra carai ;w;")
